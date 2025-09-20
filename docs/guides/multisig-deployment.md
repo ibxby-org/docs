@@ -331,7 +331,7 @@ called `daoInitialSettings` to the network state file prior to running the step:
     },
     // Beacon chain spec; can be changed via DAO voting
     "beaconSpec": {
-      "depositContractAddress": "0x00000000219ab540356cBB839Cbe05303d7705Fa",
+      "depositContractAddress": "0x0a502f846F6dc2e3D4d8C595B18b3AF44657B1bD",
       "slotsPerEpoch": 32,
       "secondsPerSlot": 12,
       "genesisTime": 1606824023,
